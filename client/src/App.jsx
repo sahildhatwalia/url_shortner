@@ -1,4 +1,4 @@
-//each and every things is avaulable on the server side endering to make it work smoothly
+//each and every things is avaulable on the server side endering to make it work smoothly to increase the optimization
 import { Routes, Route, Navigate, Outlet } from 'react-router-dom';
 import { useAuth } from './auth.jsx';
 import Layout from './components/Layout.jsx';
