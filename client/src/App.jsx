@@ -1,3 +1,4 @@
+//each and every things is avaulable on the server side endering to make it work smoothly
 import { Routes, Route, Navigate, Outlet } from 'react-router-dom';
 import { useAuth } from './auth.jsx';
 import Layout from './components/Layout.jsx';
